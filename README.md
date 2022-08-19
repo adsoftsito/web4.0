@@ -13,10 +13,12 @@ Proyecto:  Crear tu CV personal con el template de [Ellon Musk](https://emprende
 *Parcial 2
 
 Proyecto: Crear un administrador de contenido para tu CV, usando react y una API en python
-
-1.
-2.
-3.
+1. Para la [Api en Python](https://www.howtographql.com/graphql-python/0-introduction/)
+2. Para el [Front en React](https://www.howtographql.com/react-apollo/1-getting-started/)
+3. Configurar en Github integracion continua para proyecto React
+4. Configurar en Github despliegue continuo para React, con Heroku
+4. Configurar en Github despliegue continuo para API, con Heroku
+ 
 
 
 *Parcial 3
