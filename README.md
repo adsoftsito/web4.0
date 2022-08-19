@@ -1,6 +1,6 @@
-#Desarrollo de aplicaciones Web
+##Desarrollo de aplicaciones Web
 
-#Parcial 1
+##Parcial 1
 
 Proyecto:  Crear tu CV personal con el template de [Ellon Musk](https://emprendedor.com/el-cv-de-elon-musk-es-de-una-pagina-el-tuyo-deberia-ser-igual/)
 1. Solo usar HTML, CSS, JS
