@@ -23,7 +23,7 @@ Proyecto: Crear un administrador de contenido para tu CV, usando react y una API
 
 *Parcial 3
 
-Proyecto: Crear un aplicacion movil para visualizar tu CV usando Flutter
+Proyecto: Crear un aplic movil para visualizar tu CV usando Flutter
 
 *Parcial 4
 
