@@ -17,7 +17,7 @@ Proyecto: Crear un administrador de contenido para tu CV, usando react y una API
 2. Para el [Front en React](https://www.howtographql.com/react-apollo/1-getting-started/)
 3. Configurar en Github integracion continua para proyecto React
 4. Configurar en Github despliegue continuo para React, con Heroku
-5. Configurar en Github despliegue continuo para API, con Heroku
+5. Configurar en Github despliegue  continuo para API, con Heroku
  
 
 
