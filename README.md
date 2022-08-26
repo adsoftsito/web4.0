@@ -1,4 +1,5 @@
 # Desarrollo de aplicaciones Web
+## [Lista de clase](https://docs.google.com/spreadsheets/d/1XnWhZaZ7BDcgLXSc8V_f_W7GoY6Eq0xgrXxldFy0Epg/edit?usp=sharing)
 ## Consultar [sesiones grabadas](https://drive.google.com/drive/folders/12AKxOWWEjDF_pCybSnD5FQLc-hPGkON6?usp=sharing)
 
 *Parcial 1
