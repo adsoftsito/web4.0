@@ -18,17 +18,19 @@ Proyecto: Crear un administrador de contenido para tu CV, usando react y una API
 
 Rubrica Parcial 2.
 
+Tareas, Fecha entrega:  Viernes 09/sep/2022
+
 1. Curso [React basico](https://www.udemy.com/course/react-js-para-principiantes-desde-cero-curso-gratuito/) --> 5 pts
 2. Para la [Api en Python](https://www.howtographql.com/graphql-python/0-introduction/) --> 10 pts
 3. Para el [Front en React](https://www.howtographql.com/react-apollo/1-getting-started/) --> 5 pts
 
-Fronted del proyecto
+Fronted del proyecto, Fecha entrega:  Martes 13/sep/2022
 
 4. Configurar en Github integracion continua para proyecto React --> 10 pts
 5. Configurar en Github Despliegue continuo para proyecto React  --> 10 pts
 6. Funcionalidad del prototipo React --> 20 pts
 
-Backend del proyecto
+Backend del proyecto, Fecha entrega:  Lunes 19/sep/2022
 
 7. Configurar en Github integracion continua para proyecto Django/Graphene --> 10 pts
 8. Configurar en Github Despliegue continuo para proyecto Django/Graphene  --> 10 pts
