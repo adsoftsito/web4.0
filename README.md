@@ -23,6 +23,7 @@ Rubrica Parcial 2.
 3. Para el [Front en React](https://www.howtographql.com/react-apollo/1-getting-started/) --> 5 pts
 
 Fronted del proyecto
+
 4. Configurar en Github integracion continua para proyecto React --> 10 pts
 5. Configurar en Github Despliegue continuo para proyecto React  --> 10 pts
 6. Funcionalidad del prototipo React --> 20 pts
