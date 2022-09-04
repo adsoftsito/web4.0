@@ -15,11 +15,23 @@ Proyecto:  Crear tu CV personal con el template de [Ellon Musk](https://emprende
 *Parcial 2
 
 Proyecto: Crear un administrador de contenido para tu CV, usando react y una API en python
-1. Para la [Api en Python](https://www.howtographql.com/graphql-python/0-introduction/)
-2. Para el [Front en React](https://www.howtographql.com/react-apollo/1-getting-started/)
-3. Configurar en Github integracion continua para proyecto React
-4. Configurar en Github despliegue continuo para React, con Heroku
-5. Configurar en Github despliegue  continuo para API, con Heroku
+
+Rubrica Parcial 2.
+
+1. Curso [React basico](https://www.udemy.com/course/react-js-para-principiantes-desde-cero-curso-gratuito/) --> 5 pts
+2. Para la [Api en Python](https://www.howtographql.com/graphql-python/0-introduction/) --> 10 pts
+3. Para el [Front en React](https://www.howtographql.com/react-apollo/1-getting-started/) --> 5 pts
+
+Fronted del proyecto
+4. Configurar en Github integracion continua para proyecto React --> 10 pts
+5. Configurar en Github Despliegue continuo para proyecto React  --> 10 pts
+6. Funcionalidad del prototipo React --> 20 pts
+
+Backend del proyecto
+
+7. Configurar en Github integracion continua para proyecto Django/Graphene --> 10 pts
+8. Configurar en Github Despliegue continuo para proyecto Django/Graphene  --> 10 pts
+9. Funcionalidad del Api (tokens, query, mutations) --> 20 pts
  
 
 
