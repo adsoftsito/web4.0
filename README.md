@@ -21,10 +21,13 @@ Rubrica Parcial 2.
 Tareas, Fecha entrega:  Viernes 09/sep/2022
 
 1. Curso [React basico](https://www.udemy.com/course/react-js-para-principiantes-desde-cero-curso-gratuito/) publicado en Github Pages --> 5 pts
+
+Tareas, Fecha entrega:  Viernes 15/sep/2022
+
 2. [Api en Python](https://www.howtographql.com/graphql-python/0-introduction/) en localhost --> 10 pts
 3. [Front en React](https://www.howtographql.com/react-apollo/1-getting-started/) en localhost --> 5 pts
 
-Backend del proyecto, Fecha entrega:  Martes 13/sep/2022 
+Backend del proyecto, Fecha entrega:  Martes 15/sep/2022 
 
 4. Git Branching Model --> 5 pts
 5. Configurar en Github integracion continua para proyecto Django/Graphene --> 5 pts
