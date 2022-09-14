@@ -31,7 +31,7 @@ Backend del proyecto, Fecha entrega:  Martes 15/sep/2022
 
 4. Git Branching Model --> 5 pts
 5. Configurar en Github integracion continua para proyecto Django/Graphene --> 5 pts
-6. Configurar en Github Despliegue continuo para proyecto Django/Graphene en VPS linux --> 5 pts
+6. Configurar en Github Despliegue continuo para proyecto Django/Graphene, ver [Deploy VPS linux](https://gist.github.com/danielwetan/4f4db933531db5dd1af2e69ec8d54d8a) --> 5 pts
 7. Funcionalidad del Api en VPS linux (tokens, query, mutations) --> 25 pts
 
 Fronted del proyecto, Fecha entrega:  Lunes 19/sep/2022
