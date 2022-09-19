@@ -22,19 +22,19 @@ Tareas, Fecha entrega:  Viernes 09/sep/2022
 
 1. Curso [React basico](https://www.udemy.com/course/react-js-para-principiantes-desde-cero-curso-gratuito/) publicado en Github Pages --> 5 pts
 
-Tareas, Fecha entrega:  Viernes 15/sep/2022
+Tareas, Fecha entrega:  Viernes 23/sep/2022
 
-2. [Api en Python](https://www.howtographql.com/graphql-python/0-introduction/) en localhost --> 10 pts
+2. [Api en Python](https://www.howtographql.com/graphql-python/0-introduction/) en localhost hasta [Pagination](https://www.howtographql.com/graphql-python/8-pagination/) --> 10 pts
 3. [Front en React](https://www.howtographql.com/react-apollo/1-getting-started/) en localhost --> 5 pts
 
-Backend del proyecto, Fecha entrega:  Martes 15/sep/2022 
+Backend del proyecto, Fecha entrega:  Martes 30/sep/2022 
 
 4. Git Branching Model --> 5 pts
 5. Configurar en Github integracion continua para proyecto Django/Graphene --> 5 pts
 6. Configurar en Github Despliegue continuo para proyecto Django/Graphene, ver [Deploy VPS linux](https://gist.github.com/danielwetan/4f4db933531db5dd1af2e69ec8d54d8a) --> 5 pts
 7. Funcionalidad del Api publicado en VPS linux (Dev) y heroku (prod) (tokens, query, mutations) --> 25 pts
 
-Fronted del proyecto, Fecha entrega:  Lunes 19/sep/2022
+Fronted del proyecto, Fecha entrega:  Lunes 30/sep/2022
 
 8. Git Branching Model --> 5 pts
 9. Configurar en Github integracion continua para proyecto React --> 5 pts
